@@ -1,7 +1,6 @@
 .marquee-container {
   display: flex;
   align-items: center;
-  background: #fff;
   overflow: hidden;
   border-top: #030303 solid 2px;
   border-bottom: #030303 solid 2px;
