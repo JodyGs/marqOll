@@ -18,7 +18,7 @@ marquee {
   animation: marquee 30s infinite linear;
 }
 
-.marquee:after{
+marquee:after{
   content: 'Une beauté pure, évidente & sensorielle. Simple & efficace sans surperflu, sans marketing';
 }
 
