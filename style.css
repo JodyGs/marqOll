@@ -1,4 +1,4 @@
-.marquee-container {
+.homeheadermarquee{
   display: flex;
   align-items: center;
   background: #fff;
@@ -7,7 +7,7 @@
   border-bottom: #030303 solid 2px;
 }
 
-.marquee {
+marquee {
   font-size: 100px;
   line-height: 1.3;
   font-family: Helvetica, sans-serif;
